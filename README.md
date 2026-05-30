@@ -291,5 +291,3 @@ This project is licensed under the MIT License.
 ---
 
 Built with ❤️ for the Final Year VD Project
-#   V i r t u a l - I n t e r i o r - D e s i g n e r - A s s i t a n t -  
- 

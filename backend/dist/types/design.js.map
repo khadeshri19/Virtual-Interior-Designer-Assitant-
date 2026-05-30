@@ -1,0 +1,1 @@
+{"version":3,"file":"design.js","sourceRoot":"","sources":["../../src/types/design.ts"],"names":[],"mappings":"AA8CA,MAAM,CAAC,MAAM,gBAAgB,GAAG;IAC5B,QAAQ;IACR,YAAY;IACZ,cAAc;IACd,YAAY;IACZ,QAAQ;IACR,aAAa;IACb,UAAU;IACV,oBAAoB;IACpB,SAAS;IACT,WAAW;CACL,CAAC;AAEX,MAAM,CAAC,MAAM,oBAAoB,GAAG;IAChC,aAAa;IACb,SAAS;IACT,SAAS;IACT,aAAa;IACb,UAAU;IACV,aAAa;IACb,WAAW;IACX,eAAe;CACT,CAAC"}

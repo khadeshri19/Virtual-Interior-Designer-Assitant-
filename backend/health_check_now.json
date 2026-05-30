@@ -1,0 +1,11 @@
+﻿{
+    "status":  "ok",
+    "timestamp":  "2026-02-14T01:48:16.938Z",
+    "services":  {
+                     "database":  "connected",
+                     "gemini":  false,
+                     "imageGeneration":  false,
+                     "curatedImages":  true,
+                     "status":  "Ready (Design Engine: Professional Fallback)"
+                 }
+}
