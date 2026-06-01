@@ -3,7 +3,7 @@
 
 Transform empty rooms into inspiring homes with AI-powered interior design. Upload a photo and get instant redesigned versions in multiple styles.
 
-![VD Assistant](./docs/frontend-landing.png)
+
 
 ## 🚀 Features
 
